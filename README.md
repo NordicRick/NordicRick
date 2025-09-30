@@ -1,4 +1,6 @@
-## Hi there im Ricky 👋
+## Hi there im Ricky 
+
+# This is the start of my shift to being a software developer! 👋
 
 <!--
 **NordicRick/NordicRick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
